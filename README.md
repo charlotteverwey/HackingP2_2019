@@ -1,116 +1,82 @@
-# HackingP2_2019
-WdKA Hacking P2 2019
+The first words that came to mind when I thought abaout hacking were; computers, computer systems, programming, rebels, disruption, change, routines, .
 
-ASSIGNMENT
-During these weeks we ask you to participate in a series of exercises, and in the end, we ask you to inspect (part of) a dynamic system, intervene, document and reflect on this. We'll introduce you to a toolbox of concepts, skills and methods to work with to be able to do this, as well as critically examining these tools. 
-
-In WEEK 4 you will have to deliver a [Read Me File](https://en.wikipedia.org/wiki/README) and upload it to this GitHub repository inside the foler "Read_Me_Files". You can create a simple text file or a [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-
----
-
-hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html) 
-+ - - - - - + +
-
-To hack:
-to cut with heavy blows in an irregular or random fashion;
-to embarrass, annoy; 
-to disconcert, confuse;
-to cope with, manage, accomplish; to tolerate, accept; 
-to comprehend; to hesitate in speech; to stammer;
-to break into a computer system by hacking;
-to make a hack of, to put to indiscriminate or promiscuous use; to make common, vulgar, or stale, by such treatment;
-to cut or chop up or into pieces, to chop off;
-to make a clever, benign, and ethical prank or practical joke.
-[Hacking Feminism](http://ctm.parsons.edu/hackingfem/)
+For hacking you need to define a system and define the rules. You can hack the system by changing the rules or breaking some of those rules. You can hack any system, so not just a computer system but also a social system or a simple routine.
+Choreography can be a way of hacking. Choreography defines the space around the movement that is choreographied, but a  system
+can also be considered as a choreography. 
+We had to take a tool to class and observe it and give it another meaning. We had two analogue camera filters, one blue and one red. We observed and realised that those filters chape our view on the world, because our view on the world is shaped by images that represent the word. We decided we wanted to take those filters and add the directly to our sight, so weattacted theme to glasses. It looked like a 3d glasses, which was also a really cool elememnt.
+In class we also inspected connecting parts. I compared mine, a rubber band, with a teammate's, a tube ring. We came to the conclusion that they both kind of work the same way, by squeezing two things together, in a kind of suffocating way. It made me think of marriage, so I thought those tools could function also pretty well as wedding rings, instead of the traditional ones, and that couple could choose different kind of wedding rings for different type of marriages.
+We at somepoint had class at the drawing station. We used a straw to hack different situation, like kissing without a tounge and reshaping hairdo's.
+At the drawing station we had to bring photo's of our bodies and make something with them. We recreated the kiss from Klimt, it was really nice to see that images like that can be so easily recreated, but still resemble.
+At Viaria we had to 'hack' recipes. At first I thought it would be a little random, but later on I saw how it could be interesting. Recipes sometimes have functions in our society or are products of social sicumstances, by changing the ingredients you can open up a conversation on these social sircumstances.
+Florian Cramer gave a talk at some point. According to him hacking can be in many different ways, but in general hacking is more a mindset. It is about observing the world around you, and have a critical attitude towards it. Thoroughly investigating the systems around you and questioning the elements, then see opportunities is how you can give these systems or elements of them a different meaning. Most of all you have be able to see opportunities, which sometimes needs a lot of creativity.
+I think that hacking is very useful for my practice (advertising). Hacking is according to me the art of changing behavior and other systems.
+My vision of hacking hasn't changed that much (positive), but learned some more about it.
+I think hacking is the most important and accessible way to make a change in this world.
+Something new that I realized from this course is that, in order to hack someting you have to thoroughly investigate a system. Having a curious mind is an important element of a hacker.
 
 
-"Hack, hacker or hacking? These concepts can be imagined as expansive, limiting and/or controversial depending on the socio-cultural forces at play." [TransHackFeminist Manifesto!](https://transhackfeminist.noblogs.org/post/2014/07/29/transhackfeminist-manifesto/)
+Here is some of my research I did for the group project about surveilence at the coffee machine:(Privacy and Value)
 
+Facial recognition sources 
 
+The market of facial recognition software grows by 22 percent per year. Business is booming for facial recognition companies, because algorithms are much better. The algorithms evolved because they were trained on a lot of faces, but the companies behind them don’t ask for permission.Companies take your photo to use it for their data training set, there are few legal restrictions against it. 
 
-"Our lot is cast with technoscience, where nothing is so sacred that it cannot be re-engineered and transformed so as to widen our aperture of freedom, extending to gender and the human. To say that nothing is sacred, that nothing is transcendent or protected from the will to know, to tinker and to hack, is to say that nothing is supernatural."
- THE XENOFEMINIST MANIFESTO: A POLITICS FOR ALIENATION, LABORIA CUBONIKS 
+In the race to produce the best software, the winners will be companies whose algorithms can identify faces with a high degree of accuracy without producing so-called false positives. 
 
-"The hacker class desires knowledge, not education. [...] Hacker knowledge implies, in its practice, a politics of free information, free learning, the gift of the result to a network of peers." 
+There are some official databases where companies can pick face from, like Yale Face Database, however many of these training sets are relatively small and contain no more than a few thousand faces and lack racial diversity. 
 
-A Hacker Manifesto [version 4.0], by McKenzie Wark, 2004
+For years, the most avid paying customers for facial recognition has been law enforcement agencies. More recently, though, a growing number of organizations, including Wal-Mart, are using the software to identify and learn more about the people who enter their physical premises. 
 
+Where might a company obtain millions of images to train its software? One source has been databases of police mug shots, which are publicly available from state agencies and are also for sale by private companies. Some startups, however, have found an even better source of faces: personal photo album apps. 
 
-## WEEK 1 
+The risks: As more companies start to sell facial recognition, and as our faces end up in more databases, the software could catch on with voyeurs and stalkers. There’s also the risk of hacking, a stolen collection of customer faces from a hotel or retailer could help criminals carry out fraud or identity theft. 
 
-**MON 8th April: 10h-13h**
+Even though there are almost no regulations, companies do take measures to safeguard their obtained data from hackers. f.i. in the form of alphanumeric hashes.  
 
-LOCATION: WH.02.108 
+Still, despite the growing controversy around the technology, there is, for now, almost nothing in the way of laws to limit the use of your face. 
 
-**1** Introduction;
+ 
 
-- - -  Shailoh Phillips [studiobabel.nl](http://studiobabel.nl/) #entanglement #tentacular_pedagogies #critical_making #coded_matter #studio_babel #tools_for_action #more_than_human #radical_solidarity #patent_pirates
+Privacy in exchange for coffee 
 
-- - - Joana Chicau [joanachicau.com](http://www.joanachicau.com/); #graphic_design  #computer_programming #interface #web_environments #embodiment #language #scores #scripts  #choreography #codes #performance #improvisation #corporeality #techno-ecologies #techno-feminism
+“Shiru Cafe in Providence, Rhode Island is getting students to give them personal data instead of financial payment. The business innovation may be normalised sooner than you think.” 
 
-**2** Warm-up exercise: ad-hoc hacking reference;
+Right now we hand over our data for free most of the time, however there are more and more companies and services that pay you or give discount in exchange for your data. A downside of this is that many ‘basic goods’, like coffee, have become very expensive, so is this way people that don’t have a lot of money are urged to give up their personal data. 
 
-**3** Reading of manifestos:
+Selling your data is possible, but it’s not very profitable. If you try very hard, you might make a couple of euros per month with it. Data becomes valuable when it’s in large numbers, that’s why big corporations like amazon and facebook make a lot of money off it. 
 
-- - - Group #01: [The Conscience of a Hacker](http://phrack.org/issues/7/3.html)
+ 
+PSD2 
 
-- - - Group #02: [A HACKER MANIFESTO [version 4.0]](https://www.digitalmanifesto.net/manifestos/8/) — read 'Manifestation & Hacking'
+The Payment Services Directive 2, PSD2, is an EU Directive, administered by the European Commission (Directorate General Internal Market) to regulate payment services and payment service providers throughout the European Union(EU) and European Economic Area (EEA). The Directive's purpose was to increase pan-European competition and participation in the payments industry also from non-banks. 
 
-- - - Group #03: [We Are FemTechNet](http://femtechnet.org/publications/manifesto/) 
+As a consumer you can give a (licensed) company acces to you payment overview on your bankaccount. Although you should be aware of what kind of company you’re sharing your information to. With a license from the DNB there are strict regulations, however other companies in Europe are under different regulations which might compromise the privacy of the the consumer. 
 
-- - - Group #04: [THE CRITICAL ENGINEERING MANIFESTO](https://criticalengineering.org/) 
+ 
+ 
 
-- - - Group #05: [The Conscience of a Hacker](https://monoskop.org/media/text/laboria_cuboniks_the_xenofeminist_manifesto_2018/) - read ' 0X00'; '0X01'; '0X11'; ' 0X14' and ' 0X1A'
+https://www.rabobank.nl/particulieren/betalen/betaaldiensten/psd2/ 
 
+https://www.consumentenbond.nl/betaalrekening/psd2 
 
-**4** Set-up Github account; 
+https://www.afm.nl/nl-nl/consumenten/themas/producten/betalen-sparen/psd2 
 
-*to do* bring an 'inspection tool'.
+https://www.newstatesman.com/science-tech/technology/2018/10/handing-over-personal-data-pay-coffee-welcome-worlds-most-dystopian 
 
-* bring an association of what you know about 'hacking' (an image, a question, a definition, a strategy, or an example)
-* sign up for the Autonomous Fabric event on 12 april (you can pick your own workshop) https://www.wdka.nl/news-events/autonomous-fabric-self-organisation
+http://fortune.com/longform/facial-recognition/ 
 
+http://www.bbc.com/capital/story/20180921-can-you-make-money-selling-your-data 
 
+ 
 
-**THURS 11th April: 12h-17h**
+ 
 
-LOCATION: WH.04.115
+ 
 
-**1** Core concepts and references: Inspecting & Intervening Phygital * Anatomies (aka physical and digital) 
+ 
 
-**2** Warm-up exercise: inspect the inspection tools;
+ 
 
-**3** Anatomical drawing lessons (Joseph)
+ 
 
-
-
-## WEEK 2
-
-**THURS 17th April: 09h-15h**
-
-Divided in two groups: 
-
-**1/2** Shailoh: Anatomy of Connectologogy
-  
-**1/2** Joana: [Reverse Engineering Machinic Choreograhies](https://github.com/JoBCB/Rehearsal_Series)
-
-
-
-## WEEK 3
-
-**THURS 24th April: 10h-15h**
-
-*class at* [Varia](http://varia.zone/en/): Gouwstraat 3, Rotterdam
-
-**1** Lecture by [Florian Cramer](http://floriancramer.nl/) on the history of hacking.
-
-**2** Workshop by Varia member tbd.
-
-
-
-## WEEK 4 
-
-**MON 13th May: 10h-15h**
-
-Group presentations and evaluation;
+ 
